@@ -2,3 +2,5 @@ hello git v.2
 v.3
 v.4
 bugfix in the master
+jestem w release57 madafaka!!!!
+ponownie r57~!!!
